@@ -10,3 +10,4 @@ Ce projet contient des scripts Bash pour apprendre à gérer les utilisateurs, l
 - `2-groups` : affiche tous les groupes dont l'utilisateur courant fait partie.
 - `3-new_owner` : change le propriétaire du fichier `hello` pour l'utilisateur `betty`.
 - `4-empty` : crée un fichier vide nommé `hello`.
+- `5-execute` : ajoute la permission d'exécution au propriétaire du fichier `hello`.
