@@ -13,3 +13,4 @@ Ce projet contient des scripts Bash pour apprendre à gérer les utilisateurs, l
 - `5-execute` : ajoute la permission d'exécution au propriétaire du fichier `hello`.
 - `6-multiple_permissions` : ajoute la permission d'exécution au propriétaire et au groupe, et la permission de lecture aux autres utilisateurs, sur le fichier `hello`.
 - `7-everybody` : ajoute la permission d'exécution au propriétaire, au groupe et aux autres utilisateurs sur le fichier `hello`.
+- `8-James_Bond` : définit les permissions du fichier `hello` : aucune pour le propriétaire et le groupe, toutes pour les autres utilisateurs.
