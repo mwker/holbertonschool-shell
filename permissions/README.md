@@ -19,3 +19,4 @@ Ce projet contient des scripts Bash pour apprendre à gérer les utilisateurs, l
 - `11-directories_permissions` : ajoute la permission d'exécution au propriétaire, au groupe et aux autres sur tous les sous-répertoires du répertoire courant, sans modifier les fichiers ordinaires.
 - `12-directory_permissions` : crée dans le répertoire courant un répertoire nommé `my_dir` avec les permissions 751.
 - `13-change_group` : change le groupe propriétaire du fichier `hello` pour `school`.
+- `14-change_owner_and_group` : change le propriétaire pour `vincent` et le groupe pour `staff` de tous les fichiers et répertoires du répertoire courant.
