@@ -19,3 +19,4 @@ Ce projet contient des scripts Bash pour apprendre les bases du shell.
 - `11-lists` : liste au format long tous les fichiers, y compris les fichiers cachés, du répertoire courant, du répertoire parent et de `/boot`.
 - `12-file_type` : affiche le type du fichier `iamafile` situé dans `/tmp`.
 - `13-symbolic_link` : crée dans le répertoire courant un lien symbolique nommé `__ls__` vers `/bin/ls`.
+- `14-copy_html` : copie les fichiers HTML du répertoire courant vers le répertoire parent, uniquement s'ils n'y existent pas ou s'ils sont plus récents.
