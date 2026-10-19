@@ -17,3 +17,4 @@ Ce projet contient des scripts Bash pour apprendre à gérer les utilisateurs, l
 - `9-John_Doe` : définit les permissions du fichier `hello` à `-rwxr-x-wx` (753).
 - `10-mirror_permissions` : donne au fichier `hello` les mêmes permissions que le fichier `olleh`.
 - `11-directories_permissions` : ajoute la permission d'exécution au propriétaire, au groupe et aux autres sur tous les sous-répertoires du répertoire courant, sans modifier les fichiers ordinaires.
+- `12-directory_permissions` : crée dans le répertoire courant un répertoire nommé `my_dir` avec les permissions 751.
