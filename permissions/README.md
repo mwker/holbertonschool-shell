@@ -20,3 +20,4 @@ Ce projet contient des scripts Bash pour apprendre à gérer les utilisateurs, l
 - `12-directory_permissions` : crée dans le répertoire courant un répertoire nommé `my_dir` avec les permissions 751.
 - `13-change_group` : change le groupe propriétaire du fichier `hello` pour `school`.
 - `14-change_owner_and_group` : change le propriétaire pour `vincent` et le groupe pour `staff` de tous les fichiers et répertoires du répertoire courant.
+- `15-symbolic_link_permissions` : change le propriétaire et le groupe du lien symbolique `_hello` pour `vincent` et `staff`, sans modifier le fichier vers lequel il pointe.
