@@ -10,3 +10,4 @@
 - `7-movethatfile` : déplace le fichier `betty` de `/tmp/` vers `/tmp/my_first_directory`.
 - `8-firstdelete` : supprime le fichier `betty` qui se trouve dans `/tmp/my_first_directory`.
 - `9-firstdirdeletion` : supprime le répertoire `my_first_directory` qui se trouve dans `/tmp`.
+- `10-back` : change le répertoire de travail pour le répertoire précédent.
