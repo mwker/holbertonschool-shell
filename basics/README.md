@@ -21,3 +21,4 @@ Ce projet contient des scripts Bash pour apprendre les bases du shell.
 - `13-symbolic_link` : crée dans le répertoire courant un lien symbolique nommé `__ls__` vers `/bin/ls`.
 - `14-copy_html` : copie les fichiers HTML du répertoire courant vers le répertoire parent, uniquement s'ils n'y existent pas ou s'ils sont plus récents.
 - `15-lets_move` : déplace tous les fichiers dont le nom commence par une majuscule vers `/tmp/u`.
+- `16-clean_emacs` : supprime tous les fichiers du répertoire courant dont le nom se termine par `~`.
