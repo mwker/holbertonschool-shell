@@ -1,5 +1,6 @@
 # Shell, basics
 
+
 Ce projet contient des scripts Bash pour apprendre les bases du shell.
 
 ## Scripts
@@ -17,3 +18,4 @@ Ce projet contient des scripts Bash pour apprendre les bases du shell.
 - `10-back` : change le répertoire de travail pour le répertoire précédent.
 - `11-lists` : liste au format long tous les fichiers, y compris les fichiers cachés, du répertoire courant, du répertoire parent et de `/boot`.
 - `12-file_type` : affiche le type du fichier `iamafile` situé dans `/tmp`.
+- `13-symbolic_link` : crée dans le répertoire courant un lien symbolique nommé `__ls__` vers `/bin/ls`.
