@@ -22,3 +22,4 @@ Ce projet contient des scripts Bash pour apprendre les bases du shell.
 - `14-copy_html` : copie les fichiers HTML du répertoire courant vers le répertoire parent, uniquement s'ils n'y existent pas ou s'ils sont plus récents.
 - `15-lets_move` : déplace tous les fichiers dont le nom commence par une majuscule vers `/tmp/u`.
 - `16-clean_emacs` : supprime tous les fichiers du répertoire courant dont le nom se termine par `~`.
+- `17-tree` : crée les répertoires `welcome/`, `welcome/to/` et `welcome/to/school` dans le répertoire courant.
