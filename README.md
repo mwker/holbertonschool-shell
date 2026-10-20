@@ -6,8 +6,10 @@ Chaque dossier correspond à un projet et contient ses propres scripts, ainsi qu
 
 ## Projets
 
-- [`basics`](./basics) : les bases du shell (navigation dans le système de fichiers, affichage du contenu des répertoires, création, déplacement et suppression de fichiers et de répertoires, liens symboliques et caractères génériques).
-- [`permissions`](./permissions) : les permissions sous Linux (utilisateurs, groupes, droits de lecture, d'écriture et d'exécution, propriétaire et groupe des fichiers).
+- `basics` : les bases du shell (navigation dans le système de fichiers, affichage du contenu des répertoires, création, déplacement et suppression de fichiers et de répertoires, liens symboliques et caractères génériques).
+- `permissions` : les permissions sous Linux (utilisateurs, groupes, droits de lecture, d'écriture et d'exécution, propriétaire et groupe des fichiers).
+- `io_redirections_and_filters` : les redirections d'entrée/sortie, les pipes et les filtres (affichage et manipulation du contenu des fichiers, recherche de motifs, tri, comptage et transformation de texte).
+- `init_files_variables_and_expansions` : les fichiers d'initialisation du shell, les variables locales et globales, les expansions, l'arithmétique du shell, les conversions de base et les alias.
 
 ## Environnement
 
